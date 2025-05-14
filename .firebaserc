@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "tebebcode"  // replace with your actual Firebase project ID
+  }
+}
+
