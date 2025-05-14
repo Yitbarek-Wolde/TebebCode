@@ -22,7 +22,7 @@ export default function ProblemListEditor() {
   const [adminMode, setAdminMode] = useState<boolean>(false);
   const [newProblem, setNewProblem] = useState({
     title: '',
-    description: '',
+    description: '',  
     difficulty: 'easy',
     tags: '',
     starterCode: '',
